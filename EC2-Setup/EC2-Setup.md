@@ -16,7 +16,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOf3AysMe/+cQZD7KhSQ8hxgbzV0kRf06Pc8EwyTqwbp
 
 Screenshot hier einfügen:
 
-![Public Key Ausgabe](public/image-ssh-public-key.png)
+![Public Key Ausgabe](./public/image-ssh-public-key.png)
 
 ---
 
@@ -31,7 +31,7 @@ Inbound Rule:
 
 Screenshot hier einfügen:
 
-![Security Group Inbound Rules](public/image-security-group.png)
+![Security Group Inbound Rules](./public/image-security-group.png)
 
 ---
 
@@ -82,7 +82,7 @@ This message shows that your installation appears to be working correctly.
 
 Screenshot hier einfügen:
 
-![SSH Verbindung und Docker Test](public/image-docker-test.png)
+![SSH Verbindung und Docker Test](./public/image-docker-test.png)
 
 ---
 
