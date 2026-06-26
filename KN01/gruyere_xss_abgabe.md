@@ -37,7 +37,7 @@ Beide Accounts wurden in zwei verschiedenen Browserfenstern geöffnet, damit zwe
 
 Screenshot beider Accounts:
 
-![Screenshot Angreifer und Verteidiger](Gruvere Home.png)
+![Screenshot Gruyere UID](../public/GruvereHome.png)
 
 ---
 
@@ -53,7 +53,7 @@ Nach dem Neuladen wurde das Menü rot. Das zeigt, dass der JavaScript-Code ausge
 
 Screenshot:
 
-![Screenshot rotes Menü](Gruvere Home.png)
+![Screenshot Gruyere UID](../public/GruvereHome.png)
 
 Auch im Fenster des Verteidigers wurde das Menü rot. Das zeigt, dass der Payload gespeichert wurde und bei anderen Benutzern ebenfalls ausgeführt wird. Es handelt sich also um Stored XSS.
 
